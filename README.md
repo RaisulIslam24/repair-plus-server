@@ -8,6 +8,9 @@
 4. Admin can add services.
 5. User can signup or login using email an password or google.
 
-### Live Site:
+## Tools and Technology:
+Node.js, Express.js, MongoDB
+
+## Live Site:
 
 Live site link here: [https://repair-plus-32417.web.app/](https://repair-plus-32417.web.app/)
